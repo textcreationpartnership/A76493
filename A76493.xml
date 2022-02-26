@@ -1,0 +1,632 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Positions containing a full account of a Scripture-line of time, in the whole, and from joynt to joynt; together with a judgment according to Scripture prophecy on the present Turkish affairs.</title>
+            <author>Beverley, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 75 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76493</idno>
+            <idno type="STC">Wing B2168</idno>
+            <idno type="STC">ESTC R170523</idno>
+            <idno type="EEBO-CITATION">45097549</idno>
+            <idno type="OCLC">ocm 45097549</idno>
+            <idno type="VID">171164</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76493)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171164)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2563:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Positions containing a full account of a Scripture-line of time, in the whole, and from joynt to joynt; together with a judgment according to Scripture prophecy on the present Turkish affairs.</title>
+                  <author>Beverley, Thomas.</author>
+               </titleStmt>
+               <extent>12, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"A postscript to the reader" signed: T. Beverley.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Prophecies.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:171164:1" rendition="simple:additions"/>
+            <head>
+               <hi>POSITIONS</hi> Containing a Full Account of a Scripture-Line of Time, in the whole, and from Joynt to Joynt; together with a Judgment according to Scripture Prophecy on the preſent <hi>Turkiſh</hi> Affairs.</head>
+            <argument>
+               <p>
+                  <hi>I</hi> Here preſent, in as much plainneſs, and ſhortneſs as I could contrive it into, this Scripture Line of Time, upon theſe Great Conſiderations. <hi>1.</hi> There is not a Greater or more ſenſible Argument for the Being of God, than his declaring the courſe of Times, and their Events before-hand, in ſo even and ſettled a Continuation, nor more Enforcive of practical <hi>Piety,</hi> then when we ſee Times are not hidden from the Almighty. <hi>2.</hi> There is no ſtronger Conviction of the whole Antichriſtian Impoſture, than that Table of Time Scripture hath given of his ſo long Domination, and Tyranny and Ruine at laſt, and eſpecially when now ſo near. <hi>3.</hi> There cannot be a more ſeaſonable kind of Inſtruction for the preſent Time, in which we are ſo near ſo won<g ref="char:EOLhyphen"/>derful'd chan<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of the World, as within Ten years of the Proclamation of Chriſt's Kingdom, n<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in a Seditious or Rebellious way; but the moſt Heavenly, Orderly and Regular, by Princes and Sovereigns themſelves; That therefore we may,<note place="margin">1 <hi>Chron.</hi> 12.32.</note> (as the <hi>children</hi> of <hi>Iſſachar,</hi> comming to make <hi>David King at Hebron,</hi> judiciouſly, and as <hi>knowing the Times,</hi> and what <hi>Iſrael ought</hi> to do,) ſo prepare our ſelves for the Kingdom of the <hi>Root</hi> of <hi>David,</hi> the <hi>Bright Morning-Star,</hi> and may not as the <hi>Phariſees</hi> be charg'd with Hypocriſy for not diſcerning the Signs of the Times; I preſent this ſhort Table of Times, to become as familiar to every one, as the moſt known principles in theſe following Poſitions.</p>
+            </argument>
+            <p>THere is a Line of Time drawn by Scripture from that Point, It calls, <hi>The Beginning,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>1</label> (<hi>Geneſ.</hi> 1.1.) to that Point, <hi>It calls The End, (Dan.</hi> 12. <hi>ult.</hi> and oft elſewhere.)</p>
+            <p>This Line of Time is not drawn in one, entire, continued Line of 5000 or 6000 <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>2</label> years at length, and together, but in ſeveral Parcel Lines, and thoſe of unequal length.</p>
+            <p>This Line is not drawn induſtriouſly, or in a Formal ſhow of ſuch a Line; But it is with Di<g ref="char:EOLhyphen"/>vine <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>3</label> Art occaſionally Extended, and Applied to the things meaſur'd by its parcel Lines, and ſo in Longer or Shorter of thoſe Parcel Lines according to thoſe occaſions.</p>
+            <p>The Joynts of thoſe Parcel Lines are ſuch, as lye moſt viſibly cloſe One to Another, and have <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>4</label> leaſt need of Conjecture, or Inference to Derive, or Aſſure the Connexion of each Parcel Line with the Precedent, or ſubſequent Parcel Lines.</p>
+            <p>The Beginning and End of this Line are Two Points, that bound the Intermedious Space.<label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>5</label>
+            </p>
+            <p>The firſt Point is that Firſt, and Perfect <hi>Sabbatiſm</hi> of the World, at the Firſt Inviolate <hi>Crea<g ref="char:EOLhyphen"/>ation;</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>6</label> which was its <hi>Staſis,</hi> or the <hi>Firſt State</hi> given it by God; And It is incluſive of the ſpace to that Grand Oracle <hi>[The Seed of the Woman ſhall break the Serpents Head]</hi> Within which Space the firſt <hi>Parents Fell,</hi> and in them their Poſterity; But what Space that was, Scripture hath thought fit to conceal, as to any poſitive definition of it, <hi>viz.</hi> when our <hi>Firſt Parents</hi> Fell.</p>
+            <p>The laſt Point is, <hi>That Sabatiſm</hi> of the <hi>Creation</hi> Reſtor'd, or made New, ſacred Scripture ſtyles the <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>7</label> 
+               <hi>Apocataſtaſis,</hi> or the <hi>Reſtitution</hi> of All things in counter diſtinction to its Fore-nam'd State, and the Fall
+<pb n="2" facs="tcp:171164:2"/> from it, and ſo it is the Point of <hi>Revolution:</hi> And it is the <hi>Thouſand Years</hi> after which is a ſhort In<g ref="char:EOLhyphen"/>terval of the <hi>Serpent looſed,</hi> of <hi>Gog</hi> and <hi>Magog,</hi> and the <hi>Laodicean</hi> ſtate of the Church: On which laſt Interval-Scripture hath thrown a veil of ſecrecy alſo giving us no Account what ſpace of Time it is; within this alſo lies the final Judgment.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>8</label> The Line of Time, that comes firſt to be enquired of, is that which lyes between the Two Points of the firſt and the laſt <hi>Sabatiſm.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>9</label> The Parcel Lines of this whole Line are neither conceal'd, nor ſo dogmatically given, but that they require Inveſtigation, Diſcuſſion, Debate and Computation by way of Argument to ſettle and aſcertain them.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Pſit. </seg>10</label> By ſuch Elaborate ſearch into the Word of God, They may be determin'd to be in Expreſs, or number'd Numbers Five Thouſand ſeven Hundred and Fifty nine Years, with ſome ſmall La<g ref="char:EOLhyphen"/>titude of more or leſs, in ſome very ſmall difference.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>11</label> Yet is this no Derogation from the Truth of our Saviour's Aſſertion, or ſeeming Prohibition of enquiry into theſe Things,<note place="margin">
+                  <hi>Acts.</hi> 1.7.</note> 
+               <hi>viz. It is not for you to know,</hi> &amp;c. ſuch an Enquiry as that Anſwer was given to, being haſty and curious, and not according to the Order of Divine Revelation in its own Time and Method; or according to the Order of ſearch into ſuch Revelation already given by di<g ref="char:EOLhyphen"/>ligent Endeavour to compare Scripture with Scripture, with earneſt Prayer to be guided into the right Underſtanding thereof.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>12</label> The Line of Scripture-Time is either Hiſtorical, and applied to Things that were already paſt, when that Line was ſubtended to them; Or it is prophetical, and applyed to Things that were to come to paſs, when that Line was drawn out for, and applied to them, or that are yet remain<g ref="char:EOLhyphen"/>ing to come to paſs, and to be fulfilled before the End.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>13</label> That we may find out this whole Line, we muſt lay together theſe Hiſtorical and Prophetical Parcel-Lines, and by caſting the Account, How many of the Fore-recited number are paſt, we may know, how many remain to come, and what year we are upon.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Line </seg>1</label> There is evidently a Line of Sixteen hundred Fifty ſix years made up of <hi>Lineoles,</hi> or little Lines of each <hi>Patriarhs</hi> Age before his <hi>Teknogony</hi> or <hi>Begetting;</hi>
+               <note place="margin">
+                  <hi>Geneſ.</hi> 6.</note> and this Line reaches to the <hi>Self-ſame day of the Flood.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Line </seg>2</label> There is a ſecond Parcel Line, evident as the Former, of four Hundred twenty ſeven, or eight Years by a ſecond Roll of <hi>Patriarchs</hi> before their <hi>Begetting</hi> each ſucceeding <hi>Patriarch</hi> from the <label type="milestone">
+                  <seg type="milestoneunit">Line </seg>3</label> Flood to the <hi>Terahs</hi> Death,<note place="margin">
+                  <hi>Geneſ.</hi> 10.</note> and <hi>Abrahams</hi> ſojourning, and the ſeries of <hi>Promiſes</hi> beginning to him immediately at <hi>Terahs</hi> Death.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Line </seg>4</label> From thence to the <hi>going out of Egypt,</hi> there is a Line of four hundred thirty years; eight hun<g ref="char:EOLhyphen"/>dred fifty eight years from the <hi>ſelf ſame day</hi> of the <hi>Flood</hi> to the <hi>ſelf ſame day</hi> of the <hi>going out of Egypt.</hi>
+            </p>
+            <p>
+               <note place="margin">1 <hi>King.</hi> 6.1. 1 <hi>Kings</hi> 11.47.</note>From the <hi>going out of Egypt</hi> is carried on the ſame kind of expreſs Line in <hi>four hundred eighty years</hi> to <hi>Solomons</hi> firſt beginning the <hi>Temple,</hi> and reductively thirty ſix years from thence to <hi>Solo<g ref="char:EOLhyphen"/>mons Death.</hi>
+            </p>
+            <p>Thus far the Line is purely Hiſtorical.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Line </seg>5</label> In a Line partly Hiſtorical, partly Prophetical, runs a Courſe of <hi>three hundred ninety</hi> years to the very ſelf ſame day of <hi>Ezekiels</hi> Viſion of the New <hi>Jeruſalem,</hi>
+               <note place="margin">
+                  <hi>Ezek.</hi> 4.5.6. <hi>Ezek.</hi> 40.1.</note> and from the <hi>ſelf ſame day</hi> of the <hi>going out of Egypt</hi> to the <hi>ſelf ſame day</hi> of that Viſion Given, nine hundred and ſix years.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Line </seg>6</label> With theſe <hi>three hundred and ninety</hi> years are cloſely conjoyn'd <hi>forty years</hi> more to the end of the <hi>Captivity,</hi>
+               <note place="margin">
+                  <hi>Dan.</hi> 9.20.</note> or to <hi>Cyrus-Meſſiah</hi> in Type, and to the Viſion Preparatory to his Decree of <hi>Judahs</hi> Re<g ref="char:EOLhyphen"/>demption from <hi>Babylon</hi> in the <hi>firſt year of Darius,</hi> as a Type of the True <hi>Meſſiah</hi> and his Redemp<g ref="char:EOLhyphen"/>tion, given in the ſame Viſion.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>14</label> Theſe <hi>three hundred ninety years</hi> and the <hi>forty</hi> making four hundred and thirty are numbred by the days of <hi>Ezekiels lying on his ſide, a day for a year,</hi> and they commence from the <hi>Houſe</hi> of <hi>Judah,</hi> and the <hi>Houſe of Iſrael</hi> becoming two diſtinct <hi>Houſes.</hi> And are accounted by the Kings of <hi>Iſrael,</hi> as they ought to be, till <hi>Iſraels</hi> Captivity, then by <hi>Judahs</hi> Kings, and its Captivity. And here by eſpe<g ref="char:EOLhyphen"/>cial care of Providence the prophetical Cyphar of a day for a year is brought in for after Uſe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>15</label> After this very joynt of Time the Line ceaſes to be Hiſtorical, and becoms purely Prophetical, being altogether applyed to things to come, when the Line was given on, and This laſt part, This very Joynt is partly Hiſtorical, <hi>viz.</hi> to the year of <hi>Ezekiels</hi> Captivity, <hi>c.</hi> 1.3. partly Prophetical, <hi>viz.</hi> to the Viſion of the <hi>New Jeruſalem,</hi> and from thence to the end of the Captivity, and to the Viſion of <hi>reſtoring Jeruſalem by Cyrus,</hi> and of the <hi>Great Meſſiah Jeſus Chriſt.</hi> Dan. 9.20. and in Prophe<g ref="char:EOLhyphen"/>tick Figure to the New <hi>Jeruſalem</hi> it ſelf.</p>
+            <pb n="3" facs="tcp:171164:2"/>
+            <p>The Line of Time, as ceaſing to be Hiſtorical, and becoming Prophetical is divided, as into two <label type="milestone">
+                  <seg type="milestoneunit">Pſiot. </seg>16</label> equal, or about equal halves: For from the <hi>Creation</hi> to the end of the <hi>Captivity</hi> we find by Scrip<g ref="char:EOLhyphen"/>ture Account, three thouſand four hundred fifty nine years, and the Line of prophetical Time is <hi>twenty three hundred</hi> Prophetical <hi>Evens. Morns.</hi> or years to the <hi>Sabbath</hi> of the <hi>thouſand years;</hi> which with the <hi>thouſand years</hi> of that <hi>Sabbatiſm,</hi> and a ſubindication of a ſhort ſpace beyond, may draw this laſt part to an Equality with Hiſtorical Time, eſpecially the latter end of this Joynt, being partly Hiſtorical, partly Prophetical; and ſo communicates of it ſelf to each.</p>
+            <p>From <hi>Cyrus</hi> King of <hi>Perſia,</hi> and the <hi>Perſian</hi> Monarchy in him beginning, is drawn the longeſt of <label type="milestone">
+                  <seg type="milestoneunit">Line </seg>7</label> theſe parcel Lines, reaching the two Pillars; <hi>It is done, It is done;</hi>
+               <note place="margin">
+                  <hi>Dan.</hi> 8.14. <hi>Revel.</hi> 16.17. <hi>c.</hi> 21.6.</note> which bound whole <hi>Interſabba<g ref="char:EOLhyphen"/>tical</hi> Time at its end.</p>
+            <p>This longeſt of Lines being purely Prophetical is given in the prophetical Cyphar of <hi>days for years,</hi> and that, It may be known to reach the <hi>new Heavens,</hi> and the <hi>new Earth,</hi> and their great <hi>Sab<g ref="char:EOLhyphen"/>batiſm,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>17</label> It is given in <hi>Evens. Morns.</hi> according to the Character of the <hi>ſix days</hi> of the firſt <hi>Creation,</hi>
+               <note place="margin">
+                  <hi>Gen.</hi> 1.5. &amp;c.</note> reckoned by <hi>ſix Evens. Morns.</hi> till its <hi>Sabbath.</hi>
+            </p>
+            <p>The Line is given at ſo great length, as twenty three hundred years; in prophetick Style 2300 <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>18</label> 
+               <hi>Evens. Morns.</hi> That it being purely prophetical might be more definite, certain, and leſs ſubject to Ambiguity through a multiplicity of Joynts, and o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the beginnings, and endings of them.</p>
+            <p>In the infinite Wiſdom of God, and in his care over his own ſacred <hi>Prophecy,</hi> there are given <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>19</label> four collateral Lines in expreſs definite numbers, that take up eighteen hundred twenty five of the <hi>twenty three hundred years,</hi> ſo that there remain only Four hundred ſeventy five undetermin'd; And they alſo may be determin'd by cloſe Scripture reſearches, together with undoubted Teſtimony of humane <hi>Hiſtory</hi> to their juſt Scituations, as ſhall be preſently ſhown in each particular collateral Line.</p>
+            <p>By theſe Collateral Lines, this general Line of Time becoms double, and more aſſured, and while <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>20</label> the General, and principal Line is ſo aſſured, it adjuſts the collateral Lines, and ſhews, how they may be regularly plac'd and accounted, ſo as neither to exceed, nor come ſhort of the principal, on the other ſide the Collateral diſtinguiſh the General, that it may not be all of one Face, and give no inſtructions for the differencing of Time and orderly diſtinction and diſtribution of it.</p>
+            <p>The firſt Collateral Line is that of the <hi>word going forth to reſtore,</hi> and <hi>to build Jeruſalem,</hi>
+               <note place="margin">
+                  <hi>Col. Line</hi> 1. <hi>Dan.</hi> 9.25.</note> firſt by <hi>Cyrus,</hi> then by <hi>Darius,</hi> call'd by Humane Hiſtory <hi>Hyſtaſpis,</hi> then by <hi>Artaxerxes,</hi> called alſo by hu<g ref="char:EOLhyphen"/>mane Hiſtory <hi>Longimanus</hi> in his <hi>ſeventh year</hi> when the <hi>weeks began,</hi> And it was the ſpace of ſeventy five years.</p>
+            <p>It muſt needs be, that the principal Line, and the firſt Collateral Line muſt begin together, ſee<g ref="char:EOLhyphen"/>ing <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>21</label> they mutually neceſſarily ſuppoſe one another, if one be the Principal, and the other the firſt Collateral, they muſt needs begin together.</p>
+            <p>The Prophecy of <hi>Daniel</hi> places the <hi>Viſion of the</hi> 2300 <hi>Evens.</hi> and <hi>Morns.</hi> in the beginning of the <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>22</label> 
+               <hi>Perſian</hi> Monarchy, which Monarchy began in <hi>Cyrus;</hi> both which are moſt evident the firſt in the Ram expounded into the King of <hi>Perſia,</hi> Dan. 8.3.20. the ſecond in the univerſal conſent of Hi<g ref="char:EOLhyphen"/>ſtory, that <hi>Cyrus</hi> was the founder of the <hi>Perſian</hi> Monarchy.<note place="margin">
+                  <hi>Dan.</hi> 8.3. with 20.</note> If then the 2300 Evens. Morns. begin in the <hi>Perſian</hi> Monarchy, it muſt begin in <hi>Cyrus,</hi> in whom the <hi>Perſian</hi> Horn became higher than the <hi>Median,</hi> as the Viſion requires.</p>
+            <p>Whatever began with <hi>Cyrus,</hi> muſt begin with the 2300 <hi>Evs. Morns.</hi> which began with <hi>Cyrus;</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>23</label> And if there be no Collatteral Line given in Number, yet the Principal Line applied to the Courſe of Events ſhall neceſſarily be, as a Collatteral Line to it, whoſe length ſhall be defin'd by the next Collatteral Number, and other Collatteral Lines ſubjoyned till the very end of the 2300 <hi>Evs. Morns.</hi>
+            </p>
+            <p>It is moſt certain, <hi>The Word going forth</hi> muſt needs begin with <hi>Cyrus,</hi> as it did,<note place="margin">2 <hi>Cron.</hi> 36.22. <hi>Ezr.</hi> 1.5. <hi>Eſa.</hi> 44. <hi>ult. Eſ.</hi> 45.1.</note> becauſe All the <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>24</label> 
+               <hi>Prophecies</hi> went before of him as of God's <hi>Shepherd,</hi> that <hi>ſhould ſay to</hi> Jeruſalem, <hi>Thou ſhalt be built,</hi> &amp;c. and He was therefore renown'd with the Name of <hi>Meſſiah,</hi> with which no other Pagan Prince was grac'd.</p>
+            <p>Yet <hi>the Word</hi> could not be perfectly ſo <hi>Gone forth</hi> by <hi>Cyrus</hi> as to be <hi>to go forth</hi> no further; Becauſe it was ſo notoriouſly ſtopp'd in its <hi>going forth</hi> in his dayes, and for the Reigns of two Princes after:<label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>25</label> So that the <hi>Prophecy</hi> could by no means be Anſwer'd, but by a further <hi>going forth,</hi>
+               <note place="margin">
+                  <hi>Ezr.</hi> 4.</note> of which that by <hi>Cyrus</hi> was only a Foundation, and in that regard only a fulfilling of all God's Pleaſure, <hi>viz.</hi> of giving an original Decree for after Decrees, or <hi>going forth of the Word.</hi>
+            </p>
+            <pb n="4" facs="tcp:171164:3"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>26</label> It alſo appears, It did not <hi>go forth by Cyrus.</hi> ſo as to <hi>go forth</hi> no further, becauſe <hi>Sacred Hiſtory</hi> Re<g ref="char:EOLhyphen"/>cords it to <hi>go forth</hi> ſo remarkedly in <hi>the ſecond Year of Darias;</hi> and that yet it did not perfectly <hi>Go forth by Darias,</hi>
+               <note place="margin">
+                  <hi>Ezr.</hi> 6.1.</note> becauſe there was ſo Auguſt a further <hi>Going forth by</hi> Artaxerxes <hi>in his Seventh Year.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>27</label> Then it was, It completely went <hi>forth,</hi> and the <hi>ſeventy Weeks</hi> began, of which the Spirit of God is Witneſs by the large Recital of ſo full and illuſtrious a <hi>Decree,</hi> and though before hand, (as of<g ref="char:EOLhyphen"/>ten it gives the Sum before hand,<note place="margin">
+                  <hi>Ezr.</hi> 7.1. <hi>Ez.</hi> 6.14.</note> or together.) It affirms the <hi>Temple finiſh'd</hi> by the <hi>Commandment of the God of Iſrael,</hi> as the <hi>ſupreme going forth of the Word,</hi> and by the <hi>Commandment of Cyrus, Darias,</hi> and <hi>Artaxerxes,</hi> Kings of <hi>Perſia,</hi> the Subordinate and Humane; which was the perfect fulfilling of <hi>Dans</hi> Prophecy of the <hi>Commandment,</hi> and the <hi>Word going forth;</hi> And then is particularly recited <hi>Atax<g ref="char:EOLhyphen"/>erxes</hi> his Decree.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>28</label> It appears further, that by <hi>Artaxerxes</hi> in his <hi>Seventh Year the Word went forth,</hi> becauſe by the ſame <hi>Artaxerxes</hi> in his <hi>Twentieth Year,</hi>
+               <note place="margin">
+                  <hi>Nehem.</hi> 2.7.</note> when there went forth a Commiſſion by Letters in ſome Reſemblance of the <hi>Word going forth;</hi> It is expreſly directed on the building the <hi>Walls</hi> and <hi>Gates,</hi> which in <hi>Dans</hi> Prophecy is a Note of the <hi>Seven firſt Weeks</hi> in their Courſe, which aſſures the <hi>VVord was Gone forth,</hi> and the Weeks began before that, and therefore neceſſarily <hi>Gone forth at the last</hi> Word in the <hi>Seventh Year.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>29</label> From the <hi>VVord</hi> then <hi>Going forth</hi> firſt by <hi>Cyrus</hi> to its going on ſtill <hi>forth</hi> further by <hi>Darius,</hi> and its Complete being <hi>Gone forth by</hi> Artaxerxes <hi>in his Seventh Year</hi> muſt be a Conſiderable ſpace, and by the Examination of the After parts of theſe principal and collatteral Lines, together with other Symboliſms of Scripture, (on which great weight is oft hung) It may be known to be <hi>Se<g ref="char:EOLhyphen"/>venty Five Years:</hi> and ſo by being lay'd to the Principal muſt be a Collatteral Line.</p>
+            <p>
+               <note place="margin">Line Coll. <hi>2.</hi>
+               </note>From the <hi>VVord</hi> thus Completely <hi>Gone forth</hi> is drawn the ſecond Supporting, or Collatteral Line of <hi>Seventy prophetical</hi> Weeks, till the ſolemn Promulgation of the <hi>Everlasting Covenant,</hi> and the <hi>Sealing up Viſion and Prophecy,</hi>
+               <note place="margin">
+                  <hi>Dan.</hi> 9.24.</note> 
+               <hi>viz.</hi> that great Prophecy of Chri<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s Kingdom by <hi>Daniel.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>30</label> This line of Time is divided into three Parts; And is agreed to be 490 Years in the whole by. All Expoſitors.</p>
+            <p n="1">
+               <note place="margin">v. <hi>25.</hi> Nehem. <hi>1.</hi> &amp;c.</note>1. The <hi>Seventy VVeeks</hi> to which the <hi>Building of the wall,</hi> is to be apply'd as its Character: Which Seven immediately followed the Word gone forth [as before Aſſerted] for <hi>Reſtoring Jeruſalem,</hi> of which the <hi>Temple</hi> was the Principal part.</p>
+            <p n="2">2. <hi>Sixty Two VVeeks,</hi> to which is to be apply'd <hi>Time of Trouble</hi> or in <hi>Straits, viz.</hi> in the <hi>Jews</hi> low and Tributary State to other Princes among which <hi>Troubles</hi> by <hi>Daniel</hi>'s Prophecy, <hi>Antiochus</hi> his Tyranny was peculiarly remark'd: Theſe laſted till the <hi>Meſſiah</hi> publickly appear'd not a Prince, but a publick <hi>Leader, Guide,</hi> and Prophet in his publick Miniſtry; As the Hebrew <hi>Nagith</hi> imports.</p>
+            <p n="3">3. <hi>One Week</hi> of all higheſt Confirmations of the <hi>Everlasting Covenant,</hi> in the Firſt <hi>Half Week</hi> by <hi>Meſſiah</hi> Himſelf,<note place="margin">
+                  <hi>Mat.</hi> 4.17.</note> at the end of which Half, or in the midſt of that Week, <hi>Meſſiah was cut off</hi> ſome<g ref="char:EOLhyphen"/>time after the ſixty two Weeks, <hi>viz.</hi> three Years and a Half; and by the Sacrifice of Himſelf and his Reſurrection and Aſcenſion after it, cauſed typical Sacrifice and Oblation to ceaſe, [a much different thing from taking away the <hi>Daily Sacrifice</hi>] and ſo left the Confirmation of the ſame <hi>Co<g ref="char:EOLhyphen"/>venant</hi> to his Apoſtles by the Holy Ghoſt ſent down from Heaven; which three Years and half of the laſt <hi>Half Week</hi> Run out, and the Goſpel not accepted by the Body of the <hi>Jews, Acts</hi> 8.1. They were Rejected to Deſolations till the <hi>End</hi> or near the Glorious Kingdom of Chriſt, although theſe Deſolations are not ſet out in the <hi>Revelation</hi> as not becomming the <hi>Apocalyptical</hi> Glory of <hi>Iſraelitiſm,</hi> and of the <hi>New Jeruſalem,</hi> the Types all along of Chriſt's Kingdom, firſt in its Purity, then in its Glory throughout the <hi>Revelation.</hi>
+            </p>
+            <p>
+               <note place="margin">Coll. Line <hi>3.</hi>
+               </note>Immediately after the End of the laſt <hi>Half Week</hi> follows the Third Collatteral line, of four hun<g ref="char:EOLhyphen"/>dred Years of the Time of the <hi>Book Sealed</hi> in <hi>Daniel</hi>'s Prophecy, and ſeen in the <hi>Hand of Him on the Throne</hi> Sealed with ſeven Seals in <hi>Revelation,</hi>
+               <note place="margin">
+                  <hi>Rev. c.</hi> 5.1. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 6. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 7. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 10.</note> And when ſix of thoſe <hi>Seals</hi> were <hi>open'd</hi> before the <hi>ſeventh open'd</hi> a ſecond <hi>Sealing,</hi> viz. of the 144000 enter'd to carry on the <hi>Sealing</hi> further immedi<g ref="char:EOLhyphen"/>ately after the Apparance of the Chriſtian <hi>Empire,</hi> then a <hi>Third Sealing</hi> followed, <hi>viz,</hi> of the <hi>Thunders</hi> at the time of the <hi>Reformation,</hi> that ſo <hi>Daniel</hi>'s Sealing might reach the <hi>End.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>31</label> The Connexion of this line with the former is thus made certain: <hi>Daniel</hi>'s laſt <hi>Half Week</hi> muſt immediately run on from the end of the Former <hi>Half Week,</hi> in Confirmation of the Covenant when <hi>Sacrifice and Oblation was made to Ceaſe</hi> by the <hi>Death, Reſurrection, Aſcenſion</hi> of Chriſt, and <hi>ſending down the Holy Spirit;</hi> Becauſe the Character of whole Week is <hi>Confirmation of the Covenant.</hi>
+            </p>
+            <pb n="5" facs="tcp:171164:3"/>
+            <p>Accordingly the Apoſtles immediately proceeded to <hi>Confirm the Covenant,</hi> as appears in the Sa<g ref="char:EOLhyphen"/>cred <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>32</label> Hiſtory of the Acts of <hi>the Acts of the Apoſtles.</hi>
+            </p>
+            <p>Anſwerably hereunto, as the period of the firſt <hi>half week,</hi> and the beginning of the laſt <hi>half week <label type="milestone">
+                     <seg type="milestoneunit">Poſit. </seg>33</label> the Lords day</hi> of the <hi>Reſurrection</hi> and <hi>ſending the holy ſpirit</hi> is fixed, as the <hi>Apocalyptical Epoch,</hi> when the <hi>firſt</hi> Seal is opened in the Apoſtles ſolemn promulgation of the <hi>Covenant</hi> of <hi>Salvation,</hi> that was <hi>begun to be ſpoken by the Lord,</hi> and was <hi>confirmed by them that heard him,</hi> Heb. 2.3. God alſo bearing them witneſs by Miracles, <hi>&amp;c.</hi>
+            </p>
+            <p>With the <hi>firſt Seal,</hi> all the reſt are conjoyn'd, and opened in an orderly ſucceſſion, and courſe of <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>34</label> Time, and make by things themſelves applyed to the principal Line of 2300 <hi>Evens. Morns.</hi> a third Collateral Line, though not given in expreſs numbers.</p>
+            <p>Before the laſt <hi>half week</hi> of the laſt Line ended, this following Line of the <hi>Seals,</hi> running 400 <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>35</label> years beyond the three years, and half of the laſt <hi>half week</hi> is adopted and engrafted into the for<g ref="char:EOLhyphen"/>mer Line of the <hi>weeks,</hi> by uniting the laſt half week in the common ſymbol of theſe <hi>ſeven Seals</hi> ſo cloſely ſucceeding in a courſe of Time; with the ſealing Viſion at Chriſts Death.</p>
+            <p>This Line muſt continue till the following Line of the 1260 <hi>Prophetical days,</hi> or <hi>years,</hi> joyn it <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>36</label> at the beginning of the <hi>Trumpets.</hi>
+            </p>
+            <p>This Line is by ſeveral notes of Time in the courſe of the <hi>Seals,</hi> and by the notes of Time, de<g ref="char:EOLhyphen"/>termining <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>37</label> the beginning of the 1260 days,<note place="margin">
+                  <hi>Rev.</hi> 6.5.6.</note> aſſur'd to be 404 from the Epoch of the <hi>Lords day</hi> of the <hi>Reſurrection,</hi> and <hi>Aſcention;</hi> And that remarkable ſymbol of the <hi>Ballances</hi> in the <hi>Hand</hi> of that ſo known Juſt Prince <hi>Alexander Severus,</hi> in the third <hi>Seal</hi> determines the half time at his Death 202 years from the <hi>Reſurrection,</hi> to the vulgar <hi>Ann. Dom.</hi> 235 by the Agreement of undoubted Humane Hiſtory.</p>
+            <p>Next follows, [as it does the <hi>ſolemn Oath in Daniel,</hi> ſo the ſecond ſealing which entred with the <hi>firſt Trumpet</hi> into its force, in the <hi>Revelation] Time, Times, half a Time,</hi>
+               <note place="margin">Collat. lin. <hi>4.</hi>
+               </note> concurrent with the ſix firſt <hi>Trumpets;</hi> within the continent of which lye the 1260 <hi>days</hi> of the <hi>Woman, the Church in the Wilderneſs;</hi> the <hi>Witneſſes in Sackcloth,</hi> and <hi>ſlain</hi> three days and a half, and is the ſame thing with <hi>the power of the holy People ſcattered in Daniel,</hi>
+               <note place="margin">
+                  <hi>Rev.</hi> 7.1, 2.8.1.11.3. c. 12.6.</note> the <hi>Gentiles treading the Sanctuary under foot,</hi> by means whereof <hi>the daily ſervice is taken away forty two months;</hi> into which months are en<g ref="char:EOLhyphen"/>terwoven the <hi>beaſts forty two months</hi> in the <hi>Worſhip</hi> of whom, and of the <hi>Image made to him, the abomination that maketh deſolute is ſet up.</hi>
+               <note place="margin">c. 11.2. c. 13.5.</note> And the Line in the twice 42 <hi>Months</hi> ſo interlock'd one with another are equal with the days, and a common Line with them being to be ſtrictly account<g ref="char:EOLhyphen"/>ed by not <hi>Lunar,</hi> but <hi>Solar</hi> Time, and ſo falling one into another equal 1260 days.</p>
+            <p>This moſt remarkable many-character'd, though but Collatteral line hath firſt a Diſtinction of <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>38</label> Time at large, and of Seaſon, or inward Time according to the neceſſary Explication of our <hi>Lord's three days in the Grave,</hi> that is, a part of each. It hath alſo a plain diviſion into three parts: And being the moſt notorious ſtop of Chriſt's Kingdom under the Forgery of it, It is thus often remark'd.<note place="margin">c. 11.9.</note>
+            </p>
+            <p n="1">1. <hi>Time,</hi> or the firſt <hi>Time</hi> Beginning, <hi>Ann. Dom.</hi> 437, and running through the firſt 360 <hi>Years</hi> with which the <hi>Gentiles</hi> began their 42 Months, within 38 <hi>Years</hi> of which after their beginning, the <hi>Beaſt</hi> at the Ceſſation of the <hi>Weſtern Roman Empire</hi> was Born into his 42 Months beginning,<note place="margin">c. 8.10.</note> 
+               <hi>viz.</hi> at <hi>A.D.</hi> 475, in which the <hi>Gentiles</hi> Months are merg'd and drown'd as one and the ſame from that Time, at <hi>A.D.</hi> 606; When the <hi>Biſhop</hi> of <hi>Rome Fell as a Star from Heaven</hi> to enlighten <hi>Rome</hi> on the <hi>Earth</hi> at the Supremacy given him by <hi>Phocas,</hi> and aroſe to the Honour of having <hi>Himſelf,</hi> and the <hi>Image</hi> made to Him <hi>worſhipp'd</hi> at his 666 <hi>Number, A. D.</hi> 725, and was fully ſettled in his Imperial <hi>Beaſtian</hi> Power at the End of this firſt <hi>time,</hi> 797, c. 13. v. 15. v. 17, 18. All procur'd and mannag'd by the <hi>other Beaſt</hi> or Antichriſtian <hi>Hierarchy,</hi> with their <hi>Gentiles.</hi>
+            </p>
+            <p n="2">2. The <hi>two Times</hi> wherein the <hi>Beast</hi> and his <hi>Bestians</hi> were purſued by the two <hi>Woe Trumpets,</hi> during the former of the two <hi>times</hi> by the <hi>Mahometan Saracens;</hi> during the latter of the two <hi>times</hi> by the <hi>Mahometan Turks,</hi> by whom the <hi>Grecian Empire</hi> was extinguiſh'd, 1453.<note place="margin">c. 9.</note> But yet the <hi>Beaſt</hi> and his <hi>Worſhippers Repented</hi> not notwithſtanding ſo great Judgments to the very end of theſe two <hi>Times</hi> Ending, <hi>Ann. Dom.</hi> 1517.</p>
+            <p>The Third Diviſion is ſtyl'd the <hi>Half time;</hi> in the Morning of which after 1517 aforeſaid, the <hi>Bestian</hi> Kingdom was terribly ſhaken by the <hi>Reformation,</hi> the Witneſſes about, <hi>A. D.</hi> 1527, being called <hi>Proteſtants</hi> or profeſſed <hi>Witneſſes.</hi> But in the after parts of this Half time, It reſettled it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elf in a partial Dominion, and hath been of late, and now with more Appearance of Succeſs,<note place="margin">c. 10.1. <hi>&amp;c.</hi>
+               </note> endea<g ref="char:EOLhyphen"/>vouring to remount it ſelf into an entire Dominion; and may, if God pleaſe, Epitomize or give in ſhort the Reſemblance of its Former <hi>Antichriſtianiſm</hi> and Tyranny, but ſhall certainly have its
+<pb n="6" facs="tcp:171164:4"/> 
+               <hi>Papal Garments cut off at the middle, and the Beard of its Falſe Prophetiſm</hi> half Shaven at its Half time ending to their Everlaſting Diſgrace never to be repair'd: This will be about the Year 1697, ere the Inſtant <hi>Century</hi> take End.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>39</label> The <hi>Turkiſh Empire,</hi> or <hi>Woe</hi> ſhall <hi>paſs</hi> away immediately after the decemprincipality, or <hi>Tenth</hi> of the <hi>Great City,</hi> which hath ſo long <hi>Reign'd over the Kings of the Earth,</hi> is fallen, as it ſhall do at that time;<note place="margin">c. 11.14. <hi>&amp;c. Collat. lin.</hi> 5.</note> And however the <hi>Mahometan Greatneſs</hi> have trembled of late, to ſhew how eaſily God can bring it down in his own time, yet it cannot Roll to the Earth till <hi>Beaſtianiſm</hi> firſt does ſo.</p>
+            <p>The Fifth Collatteral Line is the <hi>thirty</hi> Years of the <hi>Voices,</hi> which immediately follow on the 1260 <hi>Days</hi> ending with the <hi>ſixth Trumpet;</hi> For as ſoon as the <hi>ſixth Trumpet</hi> ſhall ceaſe, the <hi>ſeventh</hi> ſhall <hi>ſound,</hi> and thoſe <hi>great Voices</hi> ſhall be heard as from <hi>Heaven,</hi> which ſhall proceed each in their Order, as they are deſcrib'd, <hi>Rev.</hi> 14. And this Line is ſo joynted into the former of the 1260 <hi>days,</hi> that it cannot be ſundered the 1260 being made 1290, <hi>Dan.</hi> 12.11. Ending <hi>A. D.</hi> 1727.</p>
+            <p>
+               <note place="margin">Collat. lin. <hi>6.</hi>
+               </note>The laſt and finiſhing Collatteral Line is the 45 <hi>Years</hi> of the <hi>Vials</hi> poured out, which <hi>Vials</hi> are Repreſented as filled up with the <hi>Wrath of God,</hi> gathered by the Prevalency of the laſt <hi>Voice</hi> for <hi>treading the Winepreſs, Rev.</hi> 14.18. <hi>&amp;c.</hi> And this is indented ſo with 1260 <hi>days,</hi> as not to be divi<g ref="char:EOLhyphen"/>ded, the whole being given as one entire Line of 1335 <hi>days</hi> or <hi>years, Dan.</hi> 12.12. Ending A. D. 1727.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>40</label> This laſt Line of 1335 y. and its backward Conjunction, with the former Line of 404 y. by <hi>Dani<g ref="char:EOLhyphen"/>el</hi>'s command to <hi>ſeal and ſhut up the Book</hi> in the beginning of it and by the <hi>Sealing the</hi> 144000 in the <hi>Revelation</hi> in the end of it may be even demonſtrated by a cloſe compare of the two Prophecies one with another,<note place="margin">
+                  <hi>Dan.</hi> 12.4. <hi>Rev.</hi> c. 6. c. 7. c. 8.</note> and a Retrograde <hi>Juxta-poſition,</hi> or laying each part backward one to another, from the <hi>End</hi> to that <hi>Sealing</hi> the 144000, and from thence to the <hi>ſealed Book.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>41</label> For compare <hi>Daniel's End,</hi> and the <hi>New Jeruſalem,</hi> the great <hi>End</hi> of the <hi>Revelation,</hi> and we ſhall find how exactly they agree.<note place="margin">
+                  <hi>Dan.</hi> 12. <hi>Rev.</hi> c. 16. c. 21. c. 20.</note>
+            </p>
+            <p>
+               <hi>Daniel's End</hi> is a <hi>Reſurrection</hi> of <hi>ſome to everlaſting Life, of ſome to ſhame and everlaſting Contempt:</hi> The <hi>End of the Revelation</hi> is remarked with Two; <hi>It is done, It is done:</hi> One of the Deſtruction of <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>42</label> Enemies, the other of the Glorious ſtate of the Martyrs and Servants of Chriſt, under the name of a <hi>Reſurrection.</hi>
+               <note place="margin">
+                  <hi>Ezek.</hi> 42. <hi>v.</hi> 22.</note>
+            </p>
+            <p>
+               <hi>Daniel's End</hi> hath its peculiar <hi>Lots,</hi> (one of which is aſſigned to him) <hi>John's End</hi> hath a <hi>New <label type="milestone">
+                     <seg type="milestoneunit">Poſit. </seg>43</label> Jeruſalem,</hi> the Capital City of the <hi>Land of Promiſe,</hi> and a <hi>Royal Prieſt-hood;</hi> to both which the Notion of <hi>Lots</hi> is in Sacred Writ ſo Appropriate.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>44</label> Bleſſed together with <hi>Daniel</hi> in his <hi>Lot</hi> ſhall All Thoſe Be, who love the <hi>Appearance of Christ, wait for,</hi> and <hi>come to it, viz.</hi> into the Enjoyment of it: And <hi>Bleſſed</hi> and <hi>Holy</hi> is <hi>He, (ſaith</hi> the <hi>Re<g ref="char:EOLhyphen"/>velation,) who hath his part in the First Reſurrection. Dan.</hi> 12, 13. with <hi>Revel.</hi> 20.6.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>45</label> From <hi>Daniel's End</hi> lay back the 45 Days, that make the 1290 Days to be 1335, and They muſt of neceſſity run back with an intimate Reference and Relation into the 1290, and all parts of them, becauſe they ſo cloſely unite with them, as not to be accounted 45 Days without them, but with them 45 making 1335, and yet they muſt be diſtinct becauſe the 1290, were ſo many before them: So theſe laſt 45 Days muſt have to do with the <hi>taking away the Daily Service,</hi> with the <hi>ſetting up the Abomination that maketh deſolate,</hi> with the <hi>ſcattering the Power of the Holy People,</hi> which things are doing, during the 1335 Days ſo joyned, and ſeeing the 45 are neareſt the State of <hi>Bleſſedneſs,</hi> what can they be ſuppoſed to have to do with them, but as in Execution of Vengeance to their Removal?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>46</label> Agreeably in the <hi>Revelation,</hi> the <hi>Vials</hi> that are plac'd juſt before the <hi>Apocalyptical End,</hi> muſt have to do with the <hi>Great City,</hi> with the Dragon, as <hi>giving his power to the Beaſt,</hi> and being <hi>Worſhipped with Him,</hi>
+               <note place="margin">
+                  <hi>Rev.</hi> 16.</note> with the <hi>Beast,</hi> with the <hi>Falſe Prophet,</hi> with the <hi>Gentiles</hi> whoſe Idolatry and Tyranny was re<g ref="char:EOLhyphen"/>preſented before in the <hi>Revelation,</hi> as demeriting ſo great an Execution of Judgment: And they muſt alſo be in Vindication of the <hi>Witneſſes in Sackcloath</hi> and <hi>ſlain, of the Woman in the Wilderneſs,</hi> and of the 144000 Sealed, and ſo muſt look back as far as they.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>47</label> Lay back from theſe 45 Days <hi>Daniel's thirty days,</hi> making the 1260 Days concurrent with the <hi>time, times,</hi> and <hi>half a time</hi> to be 1290 Days, and They muſt have a cloſer Relation to the 1260 Days, and to the <hi>taking away the Daily Service, &amp;c.</hi> then the laſt 45 days had, as being ſo much nearer to them, and at farther diſtance from the <hi>Bleſſed End;</hi> But yet being removed out of them, and nearer to Bleſſedneſs, as not being the 1260, but 1290 Days; They may be well ſuppos'd loud in Remonſtran<g ref="char:EOLhyphen"/>ces and Prayers againſt all the former Idolatry and Tyranny of <hi>taking away, &amp;c.</hi> and with greater Victoriouſneſs than formerly.</p>
+            <pb n="7" facs="tcp:171164:4"/>
+            <p>Agreeably in the <hi>Revelation,</hi> the <hi>Voices,</hi> that are plac'd juſt before the <hi>Vials</hi> are full of ſuch Re<g ref="char:EOLhyphen"/>monſtrances <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>48</label> and Prayers, and produce the <hi>Vials,</hi> and are executed by the 144000 (who were <hi>ſeal<g ref="char:EOLhyphen"/>ed</hi> at the beginning of the 1260 days) and by thoſe Inſtructed by them, when They <hi>ſtand with the Lamb on Mount Zion,</hi> and therefore Theſe <hi>Voices</hi> look back more wiftly on the 144000 Sealed before the 1260 days began; and more fully ſhew their Concatenation with them,<note place="margin">
+                  <hi>Rev.</hi> 14.1.</note> but yet they are not ſo Advanced towards the Glorious State as the 45, the <hi>Temple and Ark of the Teſtimony</hi> not being <hi>Opened</hi> till the <hi>Vials</hi> Prepared, <hi>Revel.</hi> 15.</p>
+            <p>Lay the Diſtinction made betwixt <hi>ſcattering the Holy People,</hi> and <hi>accompliſhing to ſcatter</hi> to the <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>49</label> 
+               <hi>Time,</hi> and <hi>Times,</hi> and to the <hi>Half Time,</hi> and ſeeing the <hi>ſcattering</hi> muſt needs be firſt and longeſt, and the <hi>Accompliſhing</hi> muſt needs be laſt and ſhorteſt;<note place="margin">
+                  <hi>Dan.</hi> 12.7.</note> we have Reaſon to make a Diſtinction betwixt the <hi>time, times,</hi> and Half Time; and to lay the longeſt <hi>ſcattering</hi> to the <hi>time,</hi> and <hi>times,</hi> and the <hi>Ac<g ref="char:EOLhyphen"/>compliſhing</hi> to the <hi>Halftime,</hi> and ſo to find ſomewhat of the laſt Efforts to <hi>ſcatter,</hi> but yet cut off Ac<g ref="char:EOLhyphen"/>compliſhed or finiſhed, and ſo the <hi>Holy People, the daily Service,</hi> lifting up themſelves, and the Deſola<g ref="char:EOLhyphen"/>ting Abomination caſting out.</p>
+            <p>Agreeably in the <hi>Revelation,</hi> when we find the <hi>Time, Times,</hi> and <hi>Half Times</hi> Expounded into <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>50</label> 1260 Days, and <hi>three days</hi> and a <hi>half,</hi> we have Reaſon to lay that breaking out of Divine Power and Truth in the Voice of the <hi>Roaring Lyon,</hi>
+               <note place="margin">
+                  <hi>Rev.</hi> c. 11. c. 10.</note> the <hi>Thunders uttering their Voices</hi> to the Morning of the <hi>Half time,</hi> and the <hi>Half day,</hi> and to the laſt 180 of of the 1260 <hi>days,</hi> and though there may be the laſt Efforts, and a Comprizing of the Tyranny in ſome parts of the <hi>Reformed Churches,</hi> as given in <hi>three days and a half,</hi> yet that it can be neither Univerſal nor long.</p>
+            <p>Lay the <hi>Oath</hi> in <hi>Daniel</hi> uſhering in the <hi>Time, Times, Half a time,</hi> that ſo ſolemnly reſolves They <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>51</label> ſhall be, to the <hi>Oath</hi> in the <hi>Revelation,</hi> that <hi>Time ſhall be no more, [viz.</hi> after the Half Time, that the <hi>Oaths</hi> may not contradict one another] but that in the <hi>days of the Seventh Angel</hi> when <hi>he ſhall ſound</hi> All ſhall be <hi>Finiſhed,</hi> and we ſee Reaſon why the laſt 45 and 30 making 1335 ſhould be deem'd Joynted more particularly into the laſt 180 Days of the <hi>half time</hi> then into the 1080 of the <hi>time</hi> and <hi>times</hi> becauſe their is ſo great an Affinity betwixt the <hi>Reformation,</hi> and the further Preparations to Chriſt's Kingdom, as there is a greater nearneſs in Time to the <hi>End.</hi>
+            </p>
+            <p>As a further Aſſurance of the cloſe Connexion of the 180 Days of the <hi>half time,</hi> and the 30 and <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>52</label> 45 making 1260 to be 1335, There is a common Character, though of ſeveral Diſtinctions,<note place="margin">
+                  <hi>Dan.</hi> 12.10. <hi>Rev.</hi> 16.</note> exten<g ref="char:EOLhyphen"/>ded upon them All at that declaring the Words <hi>Sealed, Many ſhall be purified,</hi> and made <hi>white</hi> by the <hi>Reformation,</hi> and yet <hi>tryed</hi> in a <hi>Furnace</hi> of <hi>Martyrdom.</hi> The <hi>Wiſe ſhall <g ref="char:V">Ʋ</g>nderſtand</hi> by the <hi>Voices</hi> and <hi>Vials,</hi> and come out as <hi>God's People</hi> from among the <hi>Wicked,</hi> but the <hi>Wicked</hi> will all along <hi>do wick<g ref="char:EOLhyphen"/>edly,</hi> and <hi>not <g ref="char:V">Ʋ</g>nderſtand,</hi> but more eſpecially they ſhew it in the time of the <hi>Vials,</hi> when they <hi>Re<g ref="char:EOLhyphen"/>pented</hi> not but <hi>Blaſphaem'd;</hi> It is no wonder then to behold Antichriſtian Confidence, Obſtinacy, and Obdurateneſs.</p>
+            <p>Conſider yet <hi>Daniel</hi>'s complaint, that He <hi>underſtood not,</hi> and that Declarations of the <hi>Words cloſed,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>53</label> and <hi>Sealed</hi> till the <hi>End,</hi> and agreeably the <hi>Thunders Sealed,</hi>
+               <note place="margin">
+                  <hi>v.</hi> 9.</note> and the <hi>Book bitter</hi> in the <hi>Prophets Belly</hi> in the <hi>Revelation,</hi>
+               <note place="margin">
+                  <hi>Rev.</hi> 10.9.</note> and we ſee the reaſon why the <hi>Half time</hi> is made moſt of a piece with the <hi>time</hi> and <hi>times,</hi> the 180 with the 1080 Days, <hi>viz.</hi> becauſe the power of the <hi>holy People</hi> remain'd ſtill <hi>ſcatter'd</hi> in great part; the <hi>daily Sacrifice</hi> not Reſtor'd, nor the <hi>Abomination of Deſolation</hi> fully Remov'd; the <hi>Beaſt</hi> and his City yet Regnant, the <hi>Witneſſes in Sackcloth,</hi> the <hi>Woman in the wilderneſs,</hi> and the 144000 <hi>Sealed,</hi> and not on <hi>Mount Zion:</hi> And ſo we ſee them ſtill, the <hi>Half time</hi> of the 1260 Days, being not expir'd by Ten, and therefore the <hi>Reformation</hi> is not Perfect as it ſhall be at that end of them, when the <hi>Thunders</hi> are unſealed in the <hi>Voices.</hi>
+            </p>
+            <p>The <hi>time</hi> and <hi>times</hi> muſt needs be the continued Time of All theſe Evils of <hi>Antichriſt,</hi> during <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>54</label> which the <hi>Book</hi> of the Kingdom was <hi>Sealed,</hi> and they muſt run back to the time of the ſecond <hi>Seal<g ref="char:EOLhyphen"/>ing,</hi> after the <hi>ſeven Seals</hi> Opened, and the <hi>Oath;</hi> There ſhould be <hi>time, times, Half time,</hi> which was the ſecond ſtop of Chriſt's Kingdom in his Servants, <hi>viz.</hi> the 144000 <hi>Sealed,</hi> under the <hi>Gentiles,</hi> and the <hi>Beſtian</hi> Tyranny, <hi>&amp;c.</hi>
+            </p>
+            <p>Hereby we may underſtand the whole Time of <hi>Sealing,</hi> its ſignification and the Ceſſation of it; <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>55</label> The <hi>Book Sealed</hi> is the <hi>Book of Daniel</hi>'s <hi>Prophecy</hi> of Chriſt's Kingdom; The Times of <hi>Sea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing</hi> were when that Kingdom had Right to Appear and was Seal'd up in reſerve for Future Time. 1. At the <hi>Re<g ref="char:EOLhyphen"/>ſurrection</hi> and <hi>Annointing</hi> with the Holy Spirit on the <hi>Apocalyptical Lord's Day, Daniel was</hi> then bidden according to his former <hi>Viſion</hi> to <hi>ſeal Prophecy</hi> at the <hi>Annointing the moſt Holy,</hi> and to <hi>ſeal</hi> it to the <hi>time of the End;</hi> Accordingly the <hi>Book</hi> is ſeen <hi>Sealed</hi> in the <hi>Hand of Him on the Throne;</hi> And it was gi<g ref="char:EOLhyphen"/>ven
+<pb n="8" facs="tcp:171164:5"/> to Chriſt to <hi>open</hi> Gradually to his Kingdom:<note place="margin">
+                  <hi>Dan.</hi> 9.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2.4.</note> And ſo the Courſe of time next to the 70 Weeks runs on in the <hi>Opening</hi> the <hi>ſeven Seals,</hi> during the Purity of the Apoſtolick Doctrine, the Character of which, is, <hi>Many ſhall run to and fro,</hi> and <hi>Knowledge</hi> be <hi>increas'd</hi> by thoſe <hi>Voices Come</hi> and <hi>See,</hi> or ſome proportionable <hi>Voice;</hi> and It laſted 404 Years from the <hi>Reſurrection.</hi> 2. The <hi>Kingdom of our God,</hi>
+               <note place="margin">
+                  <hi>Rev.</hi> 12.10.</note> and Power of his Chriſt Appearing in the <hi>Chriſtian Empire:</hi> It was enquired with Hope, It was near; <hi>How long to the end of theſe wonders?</hi> Chriſt's <hi>Swearing time, &amp;c.</hi> was the ſecond <hi>Sealing</hi> in the 144000;<note place="margin">
+                  <hi>Rev.</hi> 8.9.</note> the force of which <hi>Seal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng</hi> entred firſt in the Firſt <hi>Trumpet,</hi> when the <hi>weſtern Empire</hi> was ſtorm'd by every Blaſt of the four Firſt <hi>Trumpets,</hi> which all Hiſtory agrees was about 404 <hi>Years</hi> from the <hi>Reſurrection,</hi> and is by <hi>Daniel</hi>'s Line of 2300 Ev. Morn. determin'd ſo as before. Here was a View given of the State of the <hi>New Jeruſalem,</hi> for which the 144000 Witneſſes were <hi>Sealed.</hi> 3. At the <hi>Half time,</hi> then was again an Appearance of Chrſt's Kingdom, in the <hi>Reformation</hi> the <hi>Book was opened in Chriſt's hand,</hi> but yet the <hi>words</hi> are declar'd <hi>cloſed,</hi> and the <hi>Book Sealed;</hi> becauſe It was <hi>ſeal'd</hi> to the <hi>time of the End,</hi>
+               <note place="margin">c. 7. c. 8.</note> which was not yet: The <hi>Sealing</hi> was therefore Affirm'd and Averr'd, and <hi>Daniel could not <g ref="char:V">Ʋ</g>nderſtand,</hi> the <hi>Thunders</hi> were <hi>Sealed,</hi> and the Book Hid in the Bowels of <hi>John;</hi> and the Kingdom ſtill ſtay'd, the <hi>Reformation</hi> not perfected.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>56</label> But here <hi>Daniel</hi> was diſcharged from his Office of <hi>Sealing,</hi> on which Account He is bidden to <hi>Go his way;</hi> For after this <hi>Sealing</hi> the Thunders, All ſhould be <hi>opening</hi> in the <hi>Voices</hi> and <hi>Vials,</hi> and no more <hi>Sealing;</hi> and he hath alſo his <hi>Qute<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us</hi> or Diſcharge to his his <hi>Reſt</hi> by Death from the whole Office of <hi>Prophecy,</hi>
+               <note place="margin">
+                  <hi>Dan.</hi> 12.9.</note> ſignifying He Prophecied for Future times, and that He had given a Full Account from his own time of Future times, and had attain'd the Final <hi>Bleſſed End,</hi> and the Aſſurance of his own Happineſs and Reward in it;<note place="margin">
+                  <hi>v.</hi> 13.</note> even his <hi>Lot</hi> in the Kingdom of Chriſt, the <hi>Reſurrection</hi> and <hi>Reſtitution</hi> of All Things, which is the <hi>End</hi> throughout his <hi>Prophecy</hi> agreeable with the <hi>Revelation,</hi> which alſo declares the Sealing at an End, when that Bleſſed State was revealed, <hi>Revel.</hi> 22.10.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>57</label> We are now in the twenty two hundredth and fifteenth Year of <hi>Daniel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> 2300 <hi>v. Morn.</hi> within ten Years of that great Revolution of the <hi>Kingdoms of this world becomming the Kingdoms of the Lord, and of his Chriſt;</hi> of the <hi>witneſſes coming out of Sackcloth</hi> and <hi>Aſcending;</hi> the <hi>Tenth</hi> of the <hi>Great City Falling,</hi> and the <hi>Turkiſh woe paſſing away.</hi> And within Eighty five Years of the <hi>Bleſſed End,</hi> or the Glory of that Kingdom it ſelf, which is the End of the 2300 Evenings and Mornings.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Poſit </seg>58</label> This defining of <hi>times</hi> to the <hi>Coming of Chriſt,</hi> by the Word of God, and in the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight of that, bears no oppoſition to that Saying of our Lord,<note place="margin">
+                  <hi>Mar.</hi> 13.32.</note> 
+               <hi>Of that Day and Hour knoweth no Man, not the Angels, not the Son, but the Father only;</hi> For our Saviour's Word <hi>[to Know of]</hi> ſpeaks Authoritative Cognizance and Determination, and the Divine Order of the <hi>Revelation given by God the Father,</hi> to Chriſt, <hi>to ſhew to his Servants, &amp;c.</hi> Before which given, <hi>Daniel</hi> could not be Expounded, nor this Time known, and ſo the haſty Curioſity of the Apoſtles to know the <hi>Coming of Chriſt,</hi> and of the <hi>End of this State of the World,</hi> or Courſe of it, was curb'd and reſtrained onely, as thoſe Things were not yet Reveal'd; Next Follows <hi>Sabbatical Time, Interſabbatical Time</hi> being expir'd.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>59</label> The <hi>Thouſand Years</hi> called <hi>the End,</hi> are an exact <hi>Cube</hi> of Time, and being neither more nor leſs, are the very Perfection of whole Time; leſs than which is the Defect and Imperfection, and more is the Excurſion, Extravagancy, and Superfluity of Time: So that this <hi>Cube</hi> is the Juſt ſtate of the Glory of Chriſt's Kingdom, and was never attained before or after in time, and are both litte<g ref="char:EOLhyphen"/>rally ſo much Time, and alſo the Symboll of Times Perfection.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>60</label> The <hi>Thouſand Years</hi> of Chriſt's Kingdom are not therefore called the <hi>End,</hi> as if they were One ſingle Period ſet to Time, but becauſe they are One even level ſpace of Time, giving End to the hard Toyl, and dying Labour of <hi>Interſabbatical</hi> Time, and are therefore called the <hi>Sabbatiſm of the People of God,</hi> and are admirably ſet out to us, in the <hi>Prayer of Moſes for the Thouſand Years,</hi> Pſal 90. in the Great and Perfect Security which attends, <hi>Pſal.</hi> 91. and by the <hi>Song</hi> or <hi>Pſalm</hi> compoſed for this <hi>Sabbath, pſal.</hi> 92. and a Courſe and Order of <hi>Pſalms</hi> Celebrating the Kingdom of Chriſt in thoſe that Follow.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>61,</label> The Expiration of a <hi>Thouſand Years</hi> is not the Expiration of the Kingdom of Chriſt, but the Expiration of the Time,<note place="margin">
+                  <hi>Rev.</hi> 20.</note> in which <hi>Satan</hi> was <hi>bound,</hi> (ſo that He could not <hi>deceive the Nations,</hi> during that ſpace) the Expiration of that Time in which the Saints ſo <hi>Reign with Christ,</hi> that there is no Appearance of an Enemy, nor any Appearance of the Churches growing <hi>Luke-warm</hi> toward an Apoſtacy.</p>
+            <p>There is therefore a ſmall Spong of Time after, in which <hi>Satan</hi> is looſed, the Nations under the Name of <hi>Gog</hi> and <hi>Magog</hi> aſcend againſt the <hi>Beloved City;</hi> the Fervor of the Church here be<g ref="char:EOLhyphen"/>low
+<pb n="9" facs="tcp:171164:5"/> Cools into a <hi>Lukewarmneſs,</hi> but none of theſe Things have a Courſe; For they are imme<g ref="char:EOLhyphen"/>diately <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>62</label> ſurpriz'd with the <hi>Final Judgment,</hi> which laſt <hi>Judgment</hi> is alſo the <hi>Throne,</hi>
+               <note place="margin">
+                  <hi>Rev.</hi> 20.3. <hi>v.</hi> 7. &amp;c. c. 3.14. &amp;c. c. 3.21. c. 20.11.</note> and <hi>Kingdom of Chriſt.</hi>
+            </p>
+            <p>The <hi>Coming</hi> of Chriſt at the beginning of the <hi>Thouſand Years,</hi> is the <hi>Firſt of the Days of the Son of Man,</hi> (which we Tranſlate Onely <hi>(ONE,)</hi> a day that cannot be miſtaken, nor haſten'd any more than the <hi>Day of Judgment</hi> in the general notion of it; and ſo can no way be dangerous to the Governments of the World; For who can make the <hi>Lightning to lighten from under one End of the <label type="milestone">
+                     <seg type="milestoneunit">Poſit. </seg>63</label> Heaven,</hi> and to ſhine to under the other End of it, but He that ſhall come at that Day and do ſo?<note place="margin">
+                  <hi>Luc.</hi> 17.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2. <hi>v.</hi> 24.</note>
+            </p>
+            <p>At the Firſt of the <hi>days of the Son of Man</hi> is the ſubduing of All Enemies, and <hi>Chaining</hi> up <hi>Sa<g ref="char:EOLhyphen"/>tan,</hi> that his Kingdom may have abſolute Peace and no Diſturbance, but that He may Reign over <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>64</label> the <hi>World to Come,</hi> of which we now ſpeak, as the <hi>Second Adam</hi> in a Full dominion over All.<note place="margin">
+                  <hi>Re.</hi> 20.1. <hi>v.</hi>
+               </note>
+            </p>
+            <p>At the Completory, or Full laſt Judgment, is the utter Eradication of All Enemies, and <hi>ſhut<g ref="char:EOLhyphen"/>ting</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>65</label> up Satan and all his Seed, Sin, Death, and Hell, in their own <hi>Lake:</hi>
+               <note place="margin">
+                  <hi>v.</hi> 14.15. 1 <hi>Cor.</hi> 15.26</note> And this is the <hi>Last of the Days of the Son of Man.</hi>
+            </p>
+            <p>There is a full Agreement betwixt the <hi>Firſt</hi> and <hi>Laſt of the days of the Son Man,</hi> in the determi<g ref="char:EOLhyphen"/>nation <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>66</label> of the Good and Bad to their Unchangeable ſtate;<note place="margin">
+                  <hi>Rev.</hi> 20.5.6.</note> ſo that the Laſt is a filling up and perfe<g ref="char:EOLhyphen"/>cting the Firſt, upon all that have been here below upon Earth, during the <hi>Thouſand Years,</hi> and a Ratification of whatever was done on the firſt of the Days of the Son of Man, on thoſe who were then Judged to <hi>Reign with Chriſt,</hi> or Condemned to the <hi>Lake.</hi>
+            </p>
+            <p>What the ſpace of the Spong of Time, or of the <hi>Laſt of the Days of the Son of Man,</hi> viz. <hi>of Sa<g ref="char:EOLhyphen"/>tan <label type="milestone">
+                     <seg type="milestoneunit">Poſit. </seg>67</label> looſed,</hi> &amp;c. and of <hi>Final Judgment</hi> will be, Scripture hath no where declared, nor is it given in the <hi>Revelation God gave to Jeſus Chriſt,</hi> ſo that it is a Time hitherto <hi>Reſerv'd in the Fathers Power.</hi>
+            </p>
+            <p>Yet it is moſt certain, It ſhall Fill up whatever ſpace is allowed by God to Time or any of its <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>68</label> Millenaries, Till All be Received into Eternity.</p>
+            <p>This Kingdom of Chriſt from the <hi>Firſt</hi> to the very Laſt moment of the <hi>Laſt of the Days of the Son <label type="milestone">
+                     <seg type="milestoneunit">Poſit. </seg>69</label> of Man</hi> is the Kingdom, Throne and Reign of Chriſt, not divided but diſtinguiſh'd from the King<g ref="char:EOLhyphen"/>dom of God, and the Father, and from Chriſt's ſitting on the <hi>Right Hand of God on his Throne;</hi>
+               <note place="margin">
+                  <hi>Rev.</hi> 3 21.</note> For This is his <hi>Own Throne.</hi>
+            </p>
+            <p>Chriſt's Sitting therefore on the <hi>Right Hand of God,</hi> untill He makes <hi>his Foes his Foot-ſtool,</hi> is the <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>70</label> Glory to which Chriſt was advanced at his Reſurrection and Aſcenſion, till the Time comes that God ſhall give him immediate Abſolute Authority, that He as the <hi>Son of Man</hi> ſhould Himſelf viſi<g ref="char:EOLhyphen"/>bly, and by the Power given Him by the <hi>Father bring All Things under Him.</hi>
+            </p>
+            <p>When Chriſt firſt <hi>Sate down on the Right Hand of the Majeſty on High, and was Crowned with Glo<g ref="char:EOLhyphen"/>ry <label type="milestone">
+                     <seg type="milestoneunit">Poſit. </seg>71</label> and Honour:</hi> The Apoſtle expreſly ſays, <hi>We ſee not yet All Things put under Him,</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 2.8, 9.</note> but <hi>we ſee him Crown'd,</hi> &amp;c. plainly ſignifying, That the Kingdom of <hi>the Second Adam, Lord of the World to come,</hi> of which He ſpake, was not yet Come: For then <hi>All Things</hi> together, and at once were to be <hi>put under Him,</hi> that nothing could be <hi>left</hi> that <hi>was not put under Him.</hi> It muſt be therefore the State of Chriſt in Heaven at the Right Hand of God while His Kingdom is delay'd, or <hi>Sealed</hi> (during moſt eminently, <hi>Time, Times, Half a Time</hi>) while He ſuffers the <hi>Antichristian</hi> Forgery on his Kingdom.</p>
+            <p>This diſtinct Kingdom and Reign, is that which Chriſt <hi>delivers up to the Father;</hi> Which delivery <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>72</label> is the Laſt Final End of All Things, or the End of this End, <hi>viz.</hi> of the Kingdom of Chriſt,<note place="margin">
+                  <hi>Heb.</hi> 2.13. <hi>Rev</hi> 6.8. <hi>Mat.</hi> 25.41.</note> when the <hi>laſt Enemy Death is ſubdued,</hi> by being ſhut up with Satan, who had the Power of Death, and with <hi>Hell</hi> that <hi>follows Death,</hi> and the Wicked Men of his Fellowſhip into their own <hi>Lake.</hi>
+            </p>
+            <p>Thus the Kingdom of Chriſt is a <hi>Kingdom not left to other People,</hi> but <hi>Conſumes All,</hi> and <hi>ſtands <label type="milestone">
+                     <seg type="milestoneunit">Poſit. </seg>73</label> it ſelf for Ever;</hi> and is peculiar to the renewed humane nature of all the Saints in the ſecond <hi>Adam.</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 2. <hi>v.</hi> 6. with <hi>v.</hi> 11.</note>
+            </p>
+            <p>For into Eternity <hi>This Kingdom is deliver'd up,</hi> that <hi>God may be All in All.</hi>
+            </p>
+            <p>Chriſt's <hi>delivery up of the Kingdom,</hi> or Gods being <hi>All in All,</hi> cannot be underſtood of the abſo<g ref="char:EOLhyphen"/>lute <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>74</label> Ceſſation of the <hi>Mediatory</hi> Kingdom of Jeſus Chriſt, God-Man, much leſs of the Eternal <hi>Word.</hi> But <label type="milestone">
+                  <seg type="milestoneunit">Poſit. </seg>75</label> it is the State of the Glory of Chriſt the <hi>Mediator,</hi> and of his Saints with Him <hi>in the Glory</hi> that <hi>Christ had with the Father before the World was,</hi> when there was no ſuch Frame of Heaven and Earth, and of the Changes of them; but one ſmooth, unwrinkled,<note place="margin">
+                  <hi>Heb.</hi> 2.11. <hi>John</hi> 17.24.</note> unfurrowed Main of Eter<g ref="char:EOLhyphen"/>nity, and into which All Things now Return: Throughout which Eternity, All Gloy, Praiſe, Love, Service, and Obedience, ſhall be to the <hi>Father,</hi> the <hi>Word</hi> in our Nature, and the Holy <hi>Spirit</hi> from Glorfied Angels and Saints, for Ever and Ever, Amen and Amen.</p>
+            <div type="part">
+               <pb n="10" facs="tcp:171164:6"/>
+               <head>
+                  <hi>POSITIONS</hi> Giving a Judgment, according to the Prophecy of the <hi>Revelation,</hi> upon the State of the <hi>Turkiſh</hi> Empire, in relation to its Continuance, or Fall, and in compare with the Continuance, or Fall of the Papacy; whether of theſe two ſhall firſt be; by way fuller Explanation and Aſſurance of the Line of Time in that Remarkable Joynt, the <hi>Time, Times,</hi> and <hi>Half Time,</hi> or the <hi>1260</hi> Days of the <hi>Witneſſes in Sack-cloth:</hi> And up<g ref="char:EOLhyphen"/>on Occaſion of the late wonderful ſinck of the <hi>Turkiſh</hi> Affairs, and the ſeeming riſe of the <hi>Pa<g ref="char:EOLhyphen"/>pal;</hi> yet with a very undoubted Prediction of the Fall of both within ten years, and of the <hi>Papacy</hi> firſt of the Two, if duly underſtood, and limited.</head>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Poſit. </seg>1</label> IT cannot but be acknowledg'd by all men of Reaſon, much more of Chriſtian Reaſon, that the <hi>Mahometan</hi> Power hath been a very Great Inſtance of the <hi>Sathanick</hi> Kingdom in the World,<note place="margin">
+                     <hi>Rev.</hi> 9.11.</note> and that the King of it may be juſtly Intitled the <hi>Angel of the Bottomleſs Pit, Abaddon,</hi> and <hi>Apollyon,</hi> ſignifying deſtruction, Enmity to humane Nature, and peculiar Contrariety to Chri<g ref="char:EOLhyphen"/>ſtian Religion, wherein the Salvation of Men every way conſiſts.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Poſit. </seg>2</label> All this appears in the deteſtable Folly of its Religion, the Cruelty of its Arms, and the Barba<g ref="char:EOLhyphen"/>rouſneſs of its Tyranny.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Poſit. </seg>3</label> The preſſure of it ſo long upon the World, and upon ſo great parts of it (as on purpoſe to ſhew the <hi>univerſal Kingdom of Chriſt</hi> ſtopp'd,) muſt needs be acknowledg'd a horrible and dreadful Judg<g ref="char:EOLhyphen"/>ment of God upon the World,<note place="margin">
+                     <hi>v.</hi> 12.</note> eſpecially upon the Chriſtian World, which in regard of the Ex<g ref="char:EOLhyphen"/>cellency of its Religion, and the Promiſes to Chriſt our Lord of its ſpread with Glory upon the World, hath much more Right to ſo vaſt a Monarchy and Empire, and ſo may be juſtly call'd, if diſtribu<g ref="char:EOLhyphen"/>ted into the <hi>Saracenick,</hi> and <hi>Turkiſh Mahometanes, Two Woes.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Poſit. </seg>4</label> It is moſt evident to All, who are but a little ſeen in Hiſtory, that its <hi>Hegira</hi> or Date began <hi>A. D.</hi> 622. about ſixteen years after Supremacy given to the <hi>Church,</hi> and <hi>Biſhop of Rome</hi> by <hi>Phocas,</hi> and accepted by them, notwithſtanding the Remonſtrance of a High Prophet of their own, <hi>Gregory the Great,</hi> that ſuch Supremacy was <hi>Antichriſtianiſm</hi> but juſt before.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Poſit. </seg>5</label>
+                  <hi>Mahomataniſm,</hi> a <hi>Hibris,</hi> a <hi>Mungrel</hi> of Religions begotten with its <hi>Alcoran</hi> betwixt <hi>Mahomet the Falſe Prophet,</hi>
+                  <note place="margin">
+                     <hi>Rev.</hi> 9.3. <hi>&amp;c.</hi>
+                  </note> and <hi>Sergius a Monk,</hi> and taking ſo deeply in an Age of Superſtitions, cannot but caſt our Thoughts on the <hi>Locuſts</hi> in the <hi>Revelation,</hi> which came out <hi>of the Smoke of the Bottomleſs Pit,</hi>
+                  <pb n="11" facs="tcp:171164:6"/> and were ſuch a <hi>Woe,</hi> and Torment upon the World of men, <hi>who had not the Seal of God on their Foreheads.</hi> For immediately after the <hi>Armed Saracens</hi> drinking in the Poyſon of the <hi>Falſe Prophe<g ref="char:EOLhyphen"/>tiſm,</hi> began their Range, in which they tormented Mankind, as with the venemous <hi>ſtroke</hi> of a <hi>Scorpi<g ref="char:EOLhyphen"/>on,</hi> by their <hi>Stings</hi> in their <hi>Tayls.</hi>
+               </p>
+               <p>The <hi>Biſhop of Rome,</hi> as a Star falling from the <hi>Firmament</hi> of the Goſpel upon the Earth, and in<g ref="char:EOLhyphen"/>lightning <label type="milestone">
+                     <seg type="milestoneunit">Poſit. </seg>6</label> 
+                  <hi>Rome</hi> with New <hi>Supremacy,</hi> when It had no other Light,<note place="margin">
+                     <hi>v.</hi> 1. c. 17.15</note> being ignoble under the <hi>Exarch</hi> of <hi>Ravenna,</hi> a Governour Appointed by the <hi>Grecian Emperour,</hi> looks very Fathally upon that Su<g ref="char:EOLhyphen"/>premacy, as if it were the Appearance of that Idolatrous Supremacy, ſacred Propheſie calls <hi>Beſti<g ref="char:EOLhyphen"/>aniſm,</hi> and makes immediately to ſucceed the Chriſtian <hi>Empire,</hi> expir'd in the <hi>Weſt,</hi> though at firſt <hi>It was not; viz.</hi> in open Appearance, but now began to appear,</p>
+               <p>The <hi>Smoke of the Bottomleſs Pit,</hi> open'd by the <hi>Fallen Star,</hi> and unawares to him the Locuſts <label type="milestone">
+                     <seg type="milestoneunit">Poſit. </seg>7</label> coming out of that <hi>Smoke</hi> look too like the Falſe Chriſtianity, Idolatry, Superſtitions,<note place="margin">v. 2.</note> Falſe Hell of <hi>Purgatory;</hi> enforc'd by <hi>Anathemaes, Excommunications,</hi> Curſes, Darkning the Knowledge of Chriſt the <hi>Sun of Righteouſneſs,</hi> and the whole <hi>Ayr</hi> of the Chriſtian Profeſſion: And yet had the Smoke not been armed afterwards with the <hi>Flames</hi> of <hi>Nebuchadnezzars Furnace</hi> of Perſecution, compelling to worſhip the <hi>Beaſt</hi> and his <hi>Image,</hi> All had been but <hi>Smoke;</hi> but ſuch a <hi>Smoke</hi> as might well give Advantage to the <hi>Falſe Prophetiſm,</hi> the <hi>Locuſts</hi> were poyſon'd with, to be receiv'd in the World.</p>
+               <p>It is moſt evident about the time of the Worſhip of <hi>Images,</hi> being ſetled by general uſe, and eſta<g ref="char:EOLhyphen"/>bliſhed <label type="milestone">
+                     <seg type="milestoneunit">Poſit. </seg>8</label> by the ſecond Council of <hi>Nice,</hi> theſe <hi>Locuſts</hi> of <hi>Saracens</hi> did more fiercely annoy the <hi>Anti<g ref="char:EOLhyphen"/>chriſtian Chriſtian</hi> World, <hi>viz.</hi> After the years 725, and 787.</p>
+               <p>After, or out of the Ceſſation of the <hi>Saracens</hi> grew up the <hi>Turkiſh</hi> or <hi>Othoman</hi> Power upon the <label type="milestone">
+                     <seg type="milestoneunit">Poſit. </seg>10</label> World, as a ſecond <hi>Woe,</hi> when the <hi>Saracens Locuſts</hi> like, by <hi>Five,</hi> and <hi>Five Prophetical Months,</hi>
+                  <note place="margin">c. 9.12, 13 <hi>&amp;c.</hi>
+                  </note> and Five (ſuppoſe) of Intermiſſion, coming on, and going off had laſted 435 years, or from <hi>A. D.</hi> 622, to <hi>A. D.</hi> 1057, when the <hi>Turkiſh</hi> Power began its play.</p>
+               <p>About this time many Servants of God muſt needs be ſuppos'd in the depth of Popery to grone <label type="milestone">
+                     <seg type="milestoneunit">Poſit. </seg>11</label> under it,<note place="margin">v. 13.</note> and when the publick <hi>daily Worſhip</hi> was taken away to worſhip privately within the <hi>Tem<g ref="char:EOLhyphen"/>ple</hi> at the <hi>Altar of Incenſe,</hi> and to cry to Heaven for Relief; and ſo from the four Horns of the Gol<g ref="char:EOLhyphen"/>den Altar the Voice came.</p>
+               <p>That the firſt Riſing of the <hi>Turks</hi> was from near the River of <hi>Euphrates</hi> is ſo univerſally agreed, as <label type="milestone">
+                     <seg type="milestoneunit">Poſit. </seg>12</label> to turn our Thoughts upon the <hi>Four Angels looſed,</hi> that were there <hi>bound,</hi>
+                  <note place="margin">c. 9. v. 14</note> who from Four united in<g ref="char:EOLhyphen"/>to One in the <hi>Othoman</hi> Family according to Hiſtory.</p>
+               <p>The Great number of Horſemen in the <hi>Turkiſh</hi> Armies, the lively Symbols of Great Guns, and <label type="milestone">
+                     <seg type="milestoneunit">Poſit. </seg>13</label> ſulphurean Powder juſt in uſe at the taking <hi>Conſtantinople,</hi> their <hi>poyſonous Tayls</hi> of Falſe <hi>Prophetiſm,</hi>
+                  <note place="margin">v. 15, 16, 17, 18. v. 20, 21.</note> their Prophetical <hi>Day, Month, Year,</hi> making 395 years from their Riſing to the Taking <hi>Conſtantino<g ref="char:EOLhyphen"/>ple;</hi> the <hi>Third part</hi> of Men [the ſame Figure uſed for Imperial <hi>Rome</hi> before, but the killing or ex<g ref="char:EOLhyphen"/>tinction of the Empire in the <hi>Eaſt,</hi> differing from the darkning it wholly in the <hi>Weſt;</hi> till the Papal Supremacy inlightning it anew] and the Impenitency of the reſt of Men, of the <hi>Weſtern Antichriſti<g ref="char:EOLhyphen"/>an World</hi> after the Judgment of the <hi>Eaſtern</hi> or <hi>Graecian Antichriſtians</hi> are all ſo pregnant, and agree<g ref="char:EOLhyphen"/>able Images of the <hi>Turks</hi> placing themſelves in the Empire of the <hi>Eaſt,</hi> as not eaſily to be refuſed, eſpecially adding the admirable Landſcaph of the <hi>Reformation,</hi> Cap. 10.</p>
+               <p>The whole Tract of <hi>Mahometan</hi> Time from 622 to 1453 before the <hi>Reformation</hi> running paralel <label type="milestone">
+                     <seg type="milestoneunit">Pſit. </seg>14</label> with the moſt entire <hi>Papal</hi> Domination ſhews it a Judgment level'd againſt that very Domination,<note place="margin">c. 9. v. 4. with v. 20 v. 21.</note> and ſet up by God in ſcorn of that Falſe Chriſtianity, to which it bears in ſo many things an oppo<g ref="char:EOLhyphen"/>ſite Reſemblance; one <hi>Arm'd Falſe Prophet</hi> againſt another, one unreaſonable ſenſeleſs Religion againſt another, <hi>viz. Mahometaniſm</hi> againſt <hi>Antichriſtianiſm,</hi> One full of the Worſhip <hi>Angels, Saints, Images,</hi> the other in the Zeal of <hi>One God,</hi> denying <hi>Jeſus Christ.</hi>
+               </p>
+               <p>The <hi>Forty two Months of Western Empire</hi> being reſerv'd to the Supremacy of the <hi>Beast</hi> and his <hi>Ten <label type="milestone">
+                        <seg type="milestoneunit">Poſit. </seg>15</label> Kings,</hi> the force of <hi>Killing</hi> fell on the <hi>Eastern</hi> Empire neceſſarily,<note place="margin">c. 17 all along.</note> and on the enſlav'd <hi>Greek Anti<g ref="char:EOLhyphen"/>christians,</hi> who being guilty of the high Pretenſions to the ſame <hi>Papal Supremacy</hi> in <hi>John Patriark</hi> of <hi>Constantinople</hi> challenging it, and of its being given by their Emperor to <hi>Rome,</hi> and who by their <hi>ſecond Councel of Nice</hi> eſtabliſh'd the Idolatry upon Saints and Images, are juſtly made Hoſtages to Divine Vengeance till the Execution of Judgment on the <hi>Western Antichrist.</hi>
+               </p>
+               <p>There being to the <hi>Turkiſh Angels</hi> an <hi>Hour</hi> above the <hi>Day Month,</hi> and <hi>Year,</hi> ſignifying a deſign'd <label type="milestone">
+                     <seg type="milestoneunit">Poſit. </seg>16</label> ſet Time, may very fitly embleme the continuance of their Power, and ravage on the World,<note place="margin">c. 9. v. 15</note> till near the <hi>Fall of the Tenth of the Great City,</hi> &amp;c. and the Glorious <hi>Aſcenſion</hi> of the <hi>Witneſſes</hi> out of their <hi>ſlain</hi> Condition, dropping as <hi>Eliſha</hi> their <hi>Mantle</hi> of <hi>Sack-cloth.</hi>
+               </p>
+               <pb n="12" facs="tcp:171164:7"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Poſit. </seg>17</label> But yet to underſtand the Turkiſh Times, there muſt be an exact obſervation of <hi>Prophecy,</hi> and its meaſures, <hi>viz.</hi> from their looſing from <hi>Euphrates</hi> and motion over Countries throughout their <hi>Day,</hi>
+                  <note place="margin">
+                     <hi>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>n.</hi> 11.41.<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, 43. <hi>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ev.</hi> 9.18.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 11.13, 14. <hi>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>an.</hi> 11.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 42. <hi>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ev.</hi> 16.12.</note> 
+                  <hi>Month,</hi> and <hi>Year,</hi> till their attaining the top of the <hi>Constantinopolitan</hi> City, and <hi>Empire;</hi> From that time till near the Fall of the <hi>Tenth</hi> of the <hi>Great City Rome,</hi> the Woe by them was to continue; A gradual Fall before that muſt neceſſarily be ſuppoſed, ſignified in <hi>Daniel</hi> by <hi>Tidings out of the East and North,</hi> but together with that <hi>Fall,</hi> their <hi>Constantinopolitan</hi> Empire and <hi>Woe</hi> muſt ceaſe, and but with that; Then by the drying up the <hi>River Euphrates</hi> at the ſixth <hi>Vial</hi> is intimated their ſubſiſting in their firſt <hi>Euphratean</hi> Bounds; And from thence ſpreading as far as they can upon the <hi>Glorious Mountains of Judea,</hi> they are <hi>dryed up</hi> under the Symbol of the <hi>Euphratean Waters,</hi> that at the Con<g ref="char:EOLhyphen"/>verſion of <hi>Iſrael</hi> the way of thoſe <hi>Kings of the East may be prepared,</hi> and in the <hi>Battel</hi> of <hi>Armaged<g ref="char:EOLhyphen"/>don</hi> they come <hi>to their End,</hi> and <hi>none ſhall be able to help them,</hi> &amp;c. Dan. 11. v. 43. with Rev. 16. v. 16, 17.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Poſit. </seg>18</label> We have therefore greateſt Reaſon to pray for, and Congratulate the <hi>Turkiſh</hi> Falls, both as of ſo Great an <hi>Abaddon,</hi> and <hi>Apollyon</hi> and alſo, as, It is a Pawn, and Pledge to us of the <hi>Fall</hi> of that Di<g ref="char:EOLhyphen"/>ametrical Enemy of the Kingdom of Chriſt, the <hi>Antichrist,</hi> and his <hi>Antichristian Church or City,</hi> to ſuch a Degree, that the <hi>Kingdoms of the World</hi> ſhall be <hi>proclaimed to be the Kingdoms of the Lord, and of his Christ.</hi> For the Truth of God will certainly haſten the one with the other.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Poſit. </seg>19</label> We have Great Reaſon to hope a Great Enfranchiſement and Converſion of the <hi>Eastern Chriſti<g ref="char:EOLhyphen"/>ans,</hi> and of thoſe Churches at the ſame Time, however <hi>Antichristianiz'd</hi> now.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Poſit. </seg>20</label> It is alſo moſt hopeful, The Great Victories granted to the Army of the <hi>Christian Name,</hi> how<g ref="char:EOLhyphen"/>ever <hi>Antichriſtianiz'd,</hi>
+                  <note place="margin">
+                     <hi>Rev.</hi> 11.14. with c. 17.16.</note> will move the reſt of the <hi>Ten Kings,</hi> who have till that time <hi>given their King<g ref="char:EOLhyphen"/>dom</hi> and <hi>Power to the Beaſt,</hi> to <hi>hate the Whore, to make her deſolate,</hi> to <hi>burn her Fleſh with Fire,</hi> even that <hi>Woman</hi> who ſits the <hi>Beaſt,</hi> and that then <hi>the words of God will be ſo far fulfilled,</hi> that they ſhall and will do it by the Time appointed; of which every Victory over the <hi>Mahometan</hi> Powers is a freſh Pledge, ſeeing that muſt be done ere the <hi>Mahometane</hi> Empire <hi>paſs away</hi> from being the <hi>Woe</hi> as under which the <hi>Grecian Empire</hi> continues to this day extinct.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Poſit. </seg>21</label> There is a Great Judgment remains at the Kingdom of Chriſt to that <hi>Reſt of Men,</hi> who <hi>repented not</hi> at the <hi>killing the Eastern third part of Men,</hi>
+                  <note place="margin">
+                     <hi>Rev.</hi> c. 9.20. with c. 19.21.</note> and all along to that Judgment, <hi>viz.</hi> when the Beaſt and Falſe <hi>Prophet</hi> whom they ſerv'd, are caſt into the <hi>Lake,</hi> They ſhall be <hi>killed</hi> with the <hi>Sword of</hi> him that Rides in Triumph to his Kingdom.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Poſit. </seg>22</label> By the Year 1697, Theſe Great Things ſhall be in motion the <hi>Tenth of the Great City then falling,</hi> the Mahometan Woe paſſing away, and the True Chriſtianity Riſing into Glory. And they are de<g ref="char:EOLhyphen"/>ſcribed as moſt near and cloſe together.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Poſit. </seg>23</label> If there can be any miſtake in this foregoing Account, or that God is pleas'd to ſhorten this fag<g ref="char:EOLhyphen"/>end of time (as the <hi>Turkiſh</hi> Fall ſeems to be even on the Wing) yet being fully aſſur'd; All muſt come to paſs together; although I fear, they cannot be ſooner, then that 1697: Yet I heartily ſay, as the Prophet <hi>Jeremy</hi> in a like Caſe,<note place="margin">
+                     <hi>Jer.</hi> 28.6. <hi>Dan.</hi> 9.1, 2, 3. v. 19. with <hi>Iſa.</hi> 62.7.</note> 
+                  <hi>Amen. The Lord haſten it.</hi> But with much more Confidence according to the 1260 Days that will be Accompliſhed in the <hi>Deſolations</hi> of the <hi>Witneſſes</hi> and the <hi>Woman</hi> his <hi>Church</hi> at that Time; I deſire my ſelf, and humbly and earneſtly deſire all the Servants of God that we may ſet our ſelves by Prayer and Supplication with Faſting and Sackcloth and Aſhes, that he would then <hi>Do</hi> and <hi>defer not,</hi> to make his Church a Praiſe in the Earth. <hi>Amen.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="postscript">
+            <pb facs="tcp:171164:7"/>
+            <head>A POSTSCRIPT to the READER.</head>
+            <p>SEeing the Conſequence of this Table of Time arm'd with its agreeable Events, which I here preſent, is ſo viſibly and ſenſibly Great in the Demonſtration of True Chriſtianity, againſt the Atheiſt, the Pagan, the Mahometan, the Deiſt, the Jew, and the Antichriſtian, as alſo full of Aſſurance againſt the (I may almoſt call it ſuperſtitions) Abſtemiouſneſs and Dread of ſearch into Sacred Prophecy, under the <hi>ſhew of Humility,</hi> Modeſty, and avoidance of Curioſity,<note place="margin">Col. 2.23<g ref="char:punc">▪</g>
+               </note> I do moſt ſolemnly ap<g ref="char:EOLhyphen"/>peal to every Reader, whether it can be charged with any ſuch Abſurdity, as ſhould make it Inconſiſtent with it ſelf, or ſuch as offers violence to Scripture, to Reaſon, or to undoubted Hiſtory.</p>
+            <p>For if It cannot; Then, as it is moſt evident, there is ſuch a Book as Scripture; ſo It is as evident, I here preſent a Table of Time grounded upon expreſs places of it, emboſs'd with the moſt notorious Occurrences, that have been in the World with Rela<g ref="char:EOLhyphen"/>tion to the Church of God in every Age, the proper Ornament of a Scripture Line of Time, as cloſely diſpos'd, and organiz'd into its ſeveral Joynts, as the humane Body it ſelf is, and that cannot be ſo much as Diſlocated without violence: And I challenge all the World to draw ſuch another, leſt it be ſuſpected a Creature of Fancy.</p>
+            <p>If then there is ſuch a Table, and ſo unchargable, There cannot be a more ſenſible-Rational proof of Divine Beeing, than the <hi>declaring things to come,</hi>
+               <note place="margin">Iſa. 41.22, 23.</note> and of the Divinity of Jeſus Chriſt; who Himſelf gave the greater part of the Prophetick Line, and in whom, and in whoſe Glorious Kingdom the whole Centers.</p>
+            <p>I do therefore moſt loudly again appeal to, and beſeech every Reader, [if they ſee Reaſon] to charge theſe Poſitions, or any of them with any ſuch Inconſiſtency, or violence, as muſt convince them of Folly, or Falſhood, that I may either vindicate, or Retract them: If not, that there may be a due waiting for, and Expectation of thoſe Grand Events yet to Come, which I do with a full Confidence declare at this very Time, when the <hi>Turkiſh</hi> Ruine ſeems to outſtrip the <hi>Antichriſtian;</hi> But he that ballan<g ref="char:EOLhyphen"/>ces all Times, and their Events, will haſten both in their due Time;<note place="margin">Iſa. 34.16.</note> and ſeeing they are determin'd together, neither of them ſhall <hi>want its Mate.</hi>
+            </p>
+            <p>And becauſe I have already publiſhed a larger Diſcourſe upon ſome parts of this Line of Time, and an Adjuſtment of <hi>Solomons</hi> moſt <hi>Prophetick Song of Songs</hi> to ſo much of this Line, as runs from <hi>Davids</hi> Time to the Glorious Kingdom of Chriſt, and am endeavouring to publiſh the Full Diſcuſſion of thoſe parts of the Line not diſ<g ref="char:EOLhyphen"/>cuſs'd in the former Treatiſe, I humbly beg the favourable Aſſiſtance towards the pub<g ref="char:EOLhyphen"/>lication of All, who have Favour for the Work, and its <g ref="char:V">Ʋ</g>ndertaking.</p>
+            <closer>
+               <signed>T <hi>Beverley.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
